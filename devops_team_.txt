@@ -1,1 +1,3 @@
-This is main Branch`
+This is main Branch
+
+This is the 1st commit in 2nd branch called b2.
